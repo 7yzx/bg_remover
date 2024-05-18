@@ -1,0 +1,14 @@
+cvzone==1.6.1
+matplotlib==3.7.4
+mediapipe==0.10.9
+numpy==1.23.5
+opencv-python==4.9.0.80
+paddlepaddle==2.3.2
+pandas==2.0.3
+Pillow==9.5.0
+platformdirs==4.2.0
+protobuf==3.20.0
+PyMatting==1.1.12
+PyQt5==5.15.9
+QtPy==2.4.1
+

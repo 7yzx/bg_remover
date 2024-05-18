@@ -83,7 +83,7 @@ def seg_camera(config, vertical_screen, bg_img_path):
 
 
 def upload(path,qrpath):
-    token = '1|3GPWoDleJCiKQksdPB3B3iAielKTRDBSdzzktyli'
+    token = ''
     files = {'file': open(path, 'rb')}
     url = f'https://img.cloudtile.net/api/v1/upload'
     # 构建请求头
