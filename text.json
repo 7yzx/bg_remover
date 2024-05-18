@@ -1,0 +1,38 @@
+{
+    "_comment": "_comment中是注释，注释的下一行才是真正许需要修改的地方",
+
+    "_comment1": "实时显示欢迎语",
+    "welcome_words_in_realtime_show": "热烈欢迎武汉大学领导来访!\n11111",
+
+    "_comment2": "这个是实时显示时的大小",
+    "real_time_font_size": 50,
+
+    "_comment2": "这个是横幅背景颜色",
+    "real_time_bg_color": "#FF0000",
+
+    "_comment3": "这个是横幅字体颜色",
+    "real_time_font_color": "#FFFF00",
+
+    "_comment3": "这个是实时显示时的字体",
+    "real_time_font_path": "黑体",
+
+    "_comment4": "实时显示欢迎语",
+    "welcome_words_in_pic_show": "热烈欢迎武汉大学领导来访!\n    1111",
+    "_comment4": "这个是横幅背景颜色",
+    "pic_bg_color": "#FF0000",
+
+    "_comment4": "这个是横幅字体颜色",
+    "pic_font_color": "#FFFF00",
+
+    "_comment5": "下载图片的字体大小",
+    "real_pic_font_size": 60,
+
+    "_comment6": "这个是下载图片的字体",
+    "real_pic_font_path": "C:\\Windows\\Fonts\\simhei.ttf",
+
+    "_comment7": "真实手势计时",
+    "real_count": 30,
+
+    "_comment8": "普通背景手势计时",
+    "pic_count": 15
+}

@@ -1,0 +1,27 @@
+{
+    "people_settings": {
+        "src_factorx": 0.7,
+        "src_factory": 0.7,
+        "position_x": 320,
+        "position_y": 50,
+        "people_img_crop_h": 720,
+        "people_img_crop_w": 740
+    },
+    "hand_settings": {
+        "hand_factor": 1,
+        "hand_pos_x": 1,
+        "hand_pos_y": 0,
+        "hand_img_crop_h": 720,
+        "hand_img_crop_w": 600,
+        "distance": 0.03,
+        "duration_threshold": 5
+    },
+    "camera_settings": {
+        "wCam": 1080,
+        "hCam": 1920
+    },
+    "font_settings": {
+        "counter_font_color": "#1D827A",
+        "picture_font_color": "#118F85"
+    }
+}
